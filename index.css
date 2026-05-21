@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #dcdcdc;
+}
+
+.a{
+    background: #39ff14;
+    border: solid 2px black;
+    min-height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.B{
+    background: #19b5fe;
+    border: solid 2px black;
+    min-height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
