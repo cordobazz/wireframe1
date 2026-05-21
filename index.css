@@ -27,3 +27,11 @@ body{
     justify-content: center;
     align-items: center;
 }
+ @media (min-width: 10px) and (max-width: 450px) {
+
+            .B{
+                height: 200px;
+                background-color: blueviolet;
+            }
+
+        }
